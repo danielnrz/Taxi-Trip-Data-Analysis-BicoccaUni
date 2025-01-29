@@ -1,4 +1,6 @@
 This project was done for Foundation of Computer science project in University of Milano-Bicocca
+Dataset can be found in https://www.kaggle.com/datasets/diishasiing/revenue-for-cab-drivers
+
 
 # Taxi Trip Data Analysis 🚖
 This repository contains an analysis of taxi trip data, focusing on data cleaning, aggregation, and insights extraction. The dataset includes trip details such as timestamps, locations, payment types, and fare amounts.
